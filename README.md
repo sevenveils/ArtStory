@@ -1,6 +1,6 @@
 ## ArtStory
 
-An interactive resource to visualize art/artists in time and the context of their respective movement. Links to external resources such as Wikipedia.js for more information will be available.
+An interactive resource to visualize art/artists in time and the context of their respective movement. Links to external resources such as Wikipedia.js for more information.
 
 ## Final Product
 !["Screenshot of the home page"](https://github.com/itsalysialynn/art-timeline/blob/master/public/images/home-screenshot.png)
